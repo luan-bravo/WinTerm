@@ -115,17 +115,17 @@
         {
             "adjustIndistinguishableColors": "never",
             "bellStyle": "window",
-            "colorScheme": "Gruvbox Dark",
+            "colorScheme": "Gruvbox",
             "cursorShape": "filledBox",
             "font": 
             {
-                "cellHeight": "1.4",
+                "cellHeight": "1.2",
                 "face": "Comic Mono NerdFont Adjusted",
-                "size": 11,
+                "size": 12,
                 "weight": "normal"
             },
             "intenseTextStyle": "none",
-            "padding": "5",
+            "padding": "4",
             "scrollbarState": "hidden"
         },
         "list": 
@@ -172,25 +172,25 @@
     "schemes": 
     [
         {
+            "name": "Gruvbox",
             "background": "#282828",
-            "black": "#282828",
+            "selectionBackground": "#3C3836",
+            "foreground": "#EBDBB2",
+            "cursorColor": "#FE8019",
+            "black": "#1D2021",
             "blue": "#458588",
-            "brightBlack": "#928374",
+            "brightBlack": "665C54",
             "brightBlue": "#83A598",
             "brightCyan": "#8EC07C",
             "brightGreen": "#B8BB26",
             "brightPurple": "#D3869B",
             "brightRed": "#FB4934",
-            "brightWhite": "#EBDBB2",
+            "brightWhite": "#FBF1C7",
             "brightYellow": "#FABD2F",
-            "cursorColor": "#FFFFFF",
             "cyan": "#689D6A",
-            "foreground": "#EBDBB2",
             "green": "#98971A",
-            "name": "Gruvbox Dark",
             "purple": "#B16286",
             "red": "#CC241D",
-            "selectionBackground": "#FFFFFF",
             "white": "#A89984",
             "yellow": "#D79921"
         }
